@@ -1,17 +1,22 @@
-<h1 align="center">Hello! I'm Kernells</h1>
-<h3 align="center">Dedicated to backend</h3>
+# 👋 Hello, I'm kernells!  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kernells&label=Profile%20views&color=0e75b6&style=flat" alt="kernells" /> </p>
+### 🚀 About Me  
+- 💻 Passionate **Backend Developer**.  
+- 🤝 I love contributing to open-source projects and collaborating with developers on exciting ideas.  
+- 🌱 Currently working on various projects to expand my expertise and learn new technologies.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kernells" alt="kernells" /></a> </p>
+### 📈 GitHub Stats  
+![kernells' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kernells&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernells&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠️ Tech Stack  
+- **Languages**: C++, C#, Java  
+- **Backend Tools**: REST APIs, Databases (SQL)
+- **Other Skills**: Git, Agile Methodologies 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### 📫 Let's Connect  
+- 🌐 Check out my GitHub projects!  
+- ✉️ Reach out to collaborate or chat at [your email or other contact info].  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kernells&show_icons=true&locale=en&layout=compact" alt="kernells" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kernells&show_icons=true&locale=en" alt="kernells" /></p>
+---
+🌟 *Feel free to explore my repositories and leave a star if you find something interesting!*  
