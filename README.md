@@ -16,7 +16,6 @@
 
 ### 📫 Let's Connect  
 - 🌐 Check out my GitHub projects!  
-- ✉️ Reach out to collaborate or chat at [your email or other contact info].  
 
 ---
 🌟 *Feel free to explore my repositories and leave a star if you find something interesting!*  
