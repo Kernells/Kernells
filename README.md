@@ -5,9 +5,7 @@
 
 > Simplicity, precision, and well-crafted systems.
 
----
-
-Website
+##Website
 
 https://kernells.github.io/kernels.github.io
 
